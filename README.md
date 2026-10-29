@@ -270,12 +270,3 @@ Replace repository placeholders after publishing. Alternatively, extract the ZIP
 - Linux manual pages for `sort`, `uniq`, `sed`, `grep`, `awk`, and `journalctl` — consult your installed versions and record what you actually tried.
 
 ---
-
-## Submission checklist
-
-- [ ] Add your real repository URL.
-- [ ] Add real output from a command run on your own machine in Section 1.
-- [ ] Try at least three existing tools/commands and record real outputs in Section 2.
-- [ ] Complete the search checklist based on actions actually performed.
-- [ ] Capture your own terminal screenshots if required.
-- [ ] Run `bash tests/test_linux_log_analyzer.sh` on your Linux machine.
