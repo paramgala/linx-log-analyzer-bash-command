@@ -2,8 +2,7 @@
 
 > `linux-log-analyzer` — summarizes severity levels in a text log and highlights repeated error messages using Bash and standard Linux command-line utilities.
 
-**Team:** Param Gala, Shreya  
-**Repository:** Add your GitHub repository URL after creating the repository  
+**Team:** Param Gala, Shreya   
 **Date:** 29-10-2026
 
 ---
