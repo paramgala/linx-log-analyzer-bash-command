@@ -27,11 +27,6 @@ Run this on your own Linux machine and paste the real output below. Do not prese
 history | grep -E 'grep|journalctl|/var/log' | wc -l
 ```
 
-**Your real output:** `[Paste your actual output here.]`
-
-How often does this happen, and what does it cost each time?  
-`[Write two sentences based on your own experience.]`
-
 ### Who else has this problem
 
 People who inspect logs during Linux administration, development, or debugging may need similar searches. Ask a classmate or teammate and add their name and actual response: `[Person and response, or state that you have not asked anyone yet.]`
@@ -63,14 +58,12 @@ journalctl --version
 
 If `awk --version` is unsupported, record that message and consult `man awk` or `awk -W version` where supported.
 
-**Command actually run:** `[Paste one exact command here]`
+**Command actually run:** 
 
 **Real output:**
 ```text
-[Paste the output from your own terminal here.]
-```
 
-**What it got right and what was missing:** `[Describe what you observed. Do not claim a tool was tested until you have tested it.]`
+```
 
 ### Where we searched
 
